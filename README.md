@@ -9,9 +9,9 @@ For the best online rendering of the Python notebooks, please use <a href="https
 
 Contributors:
 - Eddwi H. Hasdeo, <a href="mailto:heskyzone@gmail.com">heskyzone@gmail.com</a>
-- Lukas P. A. Krisna, <a href="lukasprimahatva@live.com">lukasprimahatva@live.com</a>
-- Bobby E. Gunara, <a href="bobgunara@gmail.com">bobgunara@gmail.com</a>
-- Nguyen T. Hung, <a href="hung@live.jp">hung@live.jp</a>
-- Ahmad R. T. Nugraha, <a href="art.nugraha@gmail.com">art.nugraha@gmail.com</a>
+- Lukas P. A. Krisna, <a href="mailto:lukasprimahatva@live.com">lukasprimahatva@live.com</a>
+- Bobby E. Gunara, <a href="mailto:bobgunara@gmail.com">bobgunara@gmail.com</a>
+- Nguyen T. Hung, <a href="mailto:hung@live.jp">hung@live.jp</a>
+- Ahmad R. T. Nugraha, <a href="mailto:art.nugraha@gmail.com">art.nugraha@gmail.com</a>
 
 L. P. A. Krisna and A. R. T. Nugraha are the main writers of the Jupyter notebooks, based on the original analytical calculation by E. H. Hasdeo who initiated the project with A. R. T. Nugraha. After the calculations were completed, B. E. Gunara and N. T. Hung re-checked and confirmed the calculations.  All authors discussed the results and contributed to the writing of the paper.
