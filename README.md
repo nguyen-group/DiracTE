@@ -5,7 +5,7 @@ There are two Jupyter (Python) notebooks in this repository:
 - <a href="https://nbviewer.jupyter.org/github/artnugraha/DiracTE/blob/master/DiracTE.ipynb">DiracTE.ipynb</a> for the main results of our paper. The calculations are performed within the energy-dependent relaxation time approximation.
 - <a href="https://nbviewer.jupyter.org/github/artnugraha/DiracTE/blob/master/DiracTE-CRTA.ipynb">DiracTE-CRTA.ipynb</a> for the results in Appendix. The calculations are performed within the constant relaxation time approximation.
 
-For the best online rendering of the Python notebooks, please use <a href="https://nbviewer.jupyter.org/">nbviewer.jupyter.org</a>. and type this GitHub repository address: <strong>artnugraha/DiracTE</strong>
+For the best online rendering of the Python notebooks, please use <a href="https://nbviewer.jupyter.org/">nbviewer.jupyter.org</a> and type this GitHub repository address: <strong>artnugraha/DiracTE</strong>
 
 Contributors:
 - Eddwi H. Hasdeo, <a href="mailto:heskyzone@gmail.com">heskyzone@gmail.com</a>
