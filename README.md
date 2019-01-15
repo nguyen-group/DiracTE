@@ -14,4 +14,4 @@ Contributors:
 - Nguyen T. Hung, <a href="mailto:hung@live.jp">hung@live.jp</a>
 - Ahmad R. T. Nugraha, <a href="mailto:art.nugraha@gmail.com">art.nugraha@gmail.com</a>
 
-L. P. A. Krisna and A. R. T. Nugraha are the main writers of the Jupyter notebooks, based on the original calculation by E. H. Hasdeo who initiated the project with A. R. T. Nugraha. After the calculations were completed, B. E. Gunara and N. T. Hung re-checked and confirmed the calculations.  All authors discussed the results and contributed to the writing of the paper.
+E. H. Hasdeo initiated the project with A. R. T. Nugraha and laid out the guideline for the calculations. L. P. A. Krisna and A. R. T. Nugraha then wrote the Jupyter notebooks and coded numerically in Python based on the notes from E. H. Hasdeo.  After the calculations were completed, B. E. Gunara and N. T. Hung re-checked and confirmed the calculations.  All authors discussed the results and contributed to the writing of the paper.
