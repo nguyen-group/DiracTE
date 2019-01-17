@@ -8,10 +8,10 @@ There are two Jupyter (Python) notebooks in this repository:
 For the best online rendering of the Python notebooks, please use <a href="https://nbviewer.jupyter.org/">nbviewer.jupyter.org</a> and type this GitHub repository address: <strong>artnugraha/DiracTE</strong>
 
 Contributors:
-- Eddwi H. Hasdeo, <a href="mailto:heskyzone@gmail.com">heskyzone@gmail.com</a>
-- Lukas P. A. Krisna, <a href="mailto:lukasprimahatva@live.com">lukasprimahatva@live.com</a>
-- Bobby E. Gunara, <a href="mailto:bobgunara@gmail.com">bobgunara@gmail.com</a>
-- Nguyen T. Hung, <a href="mailto:hung@live.jp">hung@live.jp</a>
-- Ahmad R. T. Nugraha, <a href="mailto:art.nugraha@gmail.com">art.nugraha@gmail.com</a>
+- Eddwi Hesky Hasdeo, <a href="mailto:heskyzone@gmail.com">heskyzone@gmail.com</a>
+- Lukas Primahatva Adhitya Krisna, <a href="mailto:lukasprimahatva@live.com">lukasprimahatva@live.com</a>
+- Bobby Eka Gunara, <a href="mailto:bobgunara@gmail.com">bobgunara@gmail.com</a>
+- Nguyen Tuan Hung, <a href="mailto:hung@live.jp">hung@live.jp</a>
+- Ahmad Ridwan Tresna Nugraha, <a href="mailto:art.nugraha@gmail.com">art.nugraha@gmail.com</a>
 
 E.H.H. initiated the project with A.R.T.N. and laid out the guideline for the calculations. L.P.A.K. and A.R.T.N. then wrote the Jupyter notebooks and coded numerically in Python based on  E.H.H.'s notes.  After the calculations were completed, B.E.G. and N.T.H. re-checked and confirmed the calculations.  All authors discussed the results and contributed to the writing of the paper.
