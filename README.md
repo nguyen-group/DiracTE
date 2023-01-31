@@ -1,5 +1,5 @@
 # DiracTE
-Notes, derivations, and codes for thermoelectrics of Dirac materials. If readers benefit from this repository, please cite our paper: <strong>Optimal band gap for improved thermoelectric performance of two-dimensional Dirac materials</strong>. It is still under review in a journal but can be accessed freely at <a href="https://arxiv.org/abs/1901.03999">arXiv:1901.03999</a>.
+Notes, derivations, and codes for thermoelectrics of Dirac materials. If readers benefit from this repository, please cite our paper: <strong>Optimal band gap for improved thermoelectric performance of two-dimensional Dirac materials, J. Appl. Phys. 126, 035109 (2019).</strong>.
 
 There are two Jupyter (Python) notebooks in this repository:
 - <a href="https://nbviewer.jupyter.org/github/artnugraha/DiracTE/blob/master/DiracTE.ipynb">DiracTE.ipynb</a> for the main results of our paper. The calculations are performed within the energy-dependent relaxation time approximation.
